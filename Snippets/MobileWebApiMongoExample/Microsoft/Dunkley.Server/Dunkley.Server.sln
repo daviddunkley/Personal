@@ -3,7 +3,25 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunkley.Server.WebApp", "Dunkley.Server.WebApp\Dunkley.Server.WebApp.csproj", "{498DC041-AA4C-4FD7-AE09-D088EF1C5B3F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunkley.Server.WebAppTest", "Dunkley.Server.WebAppTest\Dunkley.Server.WebAppTest.csproj", "{443AAC47-095F-48BD-87D4-893A839B9A16}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{498DC041-AA4C-4FD7-AE09-D088EF1C5B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498DC041-AA4C-4FD7-AE09-D088EF1C5B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498DC041-AA4C-4FD7-AE09-D088EF1C5B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498DC041-AA4C-4FD7-AE09-D088EF1C5B3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{443AAC47-095F-48BD-87D4-893A839B9A16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{443AAC47-095F-48BD-87D4-893A839B9A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{443AAC47-095F-48BD-87D4-893A839B9A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{443AAC47-095F-48BD-87D4-893A839B9A16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

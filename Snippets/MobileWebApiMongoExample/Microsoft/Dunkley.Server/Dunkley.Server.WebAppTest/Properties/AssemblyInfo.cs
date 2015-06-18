@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Dunkley.Server.WebApp")]
+[assembly: AssemblyTitle("Dunkley.Server.WebAppTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Dunkley.Server.WebApp")]
+[assembly: AssemblyProduct("Dunkley.Server.WebAppTest")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("c0e007bb-db09-4e3b-95be-e0dbced71c6e")]
+[assembly: Guid("9a609261-dd78-42c9-b185-d58f2934dbcd")]
 
 // Version information for an assembly consists of the following four values:
 //
