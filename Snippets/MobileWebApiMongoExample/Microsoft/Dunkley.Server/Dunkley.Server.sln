@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunkley.Server.WebApp", "Du
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunkley.Server.WebAppTest", "Dunkley.Server.WebAppTest\Dunkley.Server.WebAppTest.csproj", "{443AAC47-095F-48BD-87D4-893A839B9A16}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunkley.Server.WebApp.UnitTests", "Dunkley.Server.WebApp.UnitTests\Dunkley.Server.WebApp.UnitTests.csproj", "{54C85EC5-9FC9-4F55-8D3E-41632865E172}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dunkley.Server.WebApp.IntegrationTests", "Dunkley.Server.WebApp.IntegrationTests\Dunkley.Server.WebApp.IntegrationTests.csproj", "{8F9263E5-EBD1-42CF-83DD-02D5A87DB359}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{443AAC47-095F-48BD-87D4-893A839B9A16}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{443AAC47-095F-48BD-87D4-893A839B9A16}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{443AAC47-095F-48BD-87D4-893A839B9A16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54C85EC5-9FC9-4F55-8D3E-41632865E172}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54C85EC5-9FC9-4F55-8D3E-41632865E172}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54C85EC5-9FC9-4F55-8D3E-41632865E172}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54C85EC5-9FC9-4F55-8D3E-41632865E172}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F9263E5-EBD1-42CF-83DD-02D5A87DB359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F9263E5-EBD1-42CF-83DD-02D5A87DB359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F9263E5-EBD1-42CF-83DD-02D5A87DB359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F9263E5-EBD1-42CF-83DD-02D5A87DB359}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
